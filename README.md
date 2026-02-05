@@ -22,6 +22,6 @@ Power Query: ETL processes and data normalization.
 GitHub: Version control and documentation.
 
 How to use
-Open delivery_performance.pbix in Power BI Desktop.
+Open Restaurants Logistics.pbix in Power BI Desktop.
 Use the slicers to deep-dive into specific local performances.
 Explore the Visualization et the data represented to understand the factors driving low customer ratings and their preferences.
